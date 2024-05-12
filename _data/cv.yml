@@ -51,14 +51,14 @@
       institution: Google Assistant
       year: 2018
       description:
-        - Dialogue and Conversation modeling
+        - Dialogue and Conversation Modeling
     - title: Software Engineer
       institution: OJO Labs, Inc.
       year: 2016 - 2017
       description:
         - Natural Language Processing
         - Machine Learning
-        - Conversation modeling
+        - Conversation Modeling
 
 - title: Tech Stack
   type: nested_list
