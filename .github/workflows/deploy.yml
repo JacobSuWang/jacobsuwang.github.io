@@ -1,6 +1,6 @@
 name: Deploy site
 
-on:
+# on:
   # push:
   #   branches:
   #     - master
@@ -47,7 +47,7 @@ on:
   #     - "!FAQ.md"
   #     - "!INSTALL.md"
   #     - "!README.md"
-  workflow_dispatch:
+  # workflow_dispatch:
 
 permissions:
   contents: write
