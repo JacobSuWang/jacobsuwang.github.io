@@ -33,32 +33,32 @@
       institution: Google DeepMind
       year: 2023 - Present
       description:
-        - Multimodality (focusing on LLM, VLM)
-        - Evaluation (alignment, fairness, creativity)
+        - Multimodality (focusing on LLM, VLM). Model finetuning work.
+        - Evaluation (alignment, fairness, creativity). Used diagnostic evaluations to improve the objective designs for T2I models.
     - title: Research Engineer
       institution: Google Research
       year: 2020 - 2023
       description:
-        - Natural Language Processing
-        - Vision-Language Navigation
-        - Text-to-image Generation/Editing
+        - Natural Language Processing. Explored methods in intention parsing from natural languages.
+        - Vision-Language Navigation. Created and deployed highly scalable training data for VLN agents.
+        - Text-to-image Generation/Editing. Built SoTA T2I editor, along with a comprehensive benchmark.
     - title: Research Intern
       institution: Google AI Language
       year: 2019
       description:
-        - Natural Language Grounding and Navigation
+        - Natural Language Grounding and Navigation. Contributed to VLN instruction evaluation (ECCV'21 publication).
     - title: Research Intern
       institution: Google Assistant
       year: 2018
       description:
-        - Dialogue and Conversation Modeling
+        - Paraphrasing. Collected strong evidence for the value of semantic augmentation in paraphrase generation (in particular for improving human ratings).
     - title: Software Engineer
       institution: OJO Labs, Inc.
       year: 2016 - 2017
       description:
-        - Natural Language Processing
-        - Machine Learning
-        - Conversation Modeling
+        - Natural Language Processing. Contributed to conversational infra.
+        - Machine Learning. Implemented SoTA models to assist in infra upgrades.
+        - Conversation Modeling. Explored conversational modeling and investigated multiple potential directions.
 
 - title: Tech Stack
   type: nested_list
