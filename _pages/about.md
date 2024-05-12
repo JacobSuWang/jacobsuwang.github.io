@@ -1,27 +1,25 @@
 ---
 layout: about
-title: about
+title: Bio
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Senior Research Engineer
+#subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>jacob.su.wang</p>
+    <p>at gmail dot com</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 ---
 
-This is a test line.
+I am a Research Engineer at Google DeepMind, specializing in multimodality, and most recently focusing on the application and evaluation of large generative models in the form of LLMs and VLMs.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+In my earlier career, I worked on vision-language navigation and text-to-image generation/editing at Google Research, and also collaborated with Robotics on vision-language related projects.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Before joining Google I completed my PhD in Computation Linguistics at [the University of Texas at Austin](https://www.utexas.edu/), advised by [Greg Durett](https://www.cs.utexas.edu/~gdurrett/) and [Katrin Erk](https://www.katrinerk.com/). My interests and perspectives in computational linguistcs are influenced from a ``pure linguistics'' angle by the teachings of [Matthew Dryer](https://www.acsu.buffalo.edu/~dryer/), my mentor when I worked on my M.A. in Linguistics at [University at Buffalo](https://arts-sciences.buffalo.edu/linguistics.html), as well as from a formal / logical angle by [Hans Kamp](https://www.ims.uni-stuttgart.de/institut/team/Kamp/) in his teachings at UT Austin.

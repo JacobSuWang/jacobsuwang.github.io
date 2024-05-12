@@ -7,3 +7,30 @@
 
 "Vision":
   color: "#009f36"
+
+"CVPR":
+  color: "#3a77a5"
+
+"AAAI":
+  color: "#ff71a1"
+
+"EMNLP":
+  color: "#ff4500"
+
+"NAACL":
+  color: "#4d7c6f"
+
+"ICLR":
+  color: "#b4ccff"
+
+"ECCV":
+  color: "#268290"
+
+"TACL":
+  color: "#d88282"
+
+"Robotics":
+  color: "#666d70"
+
+"arXiv":
+  color: "#666d70"
